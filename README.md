@@ -1,6 +1,8 @@
 # Chainstack Subgraph Demo
 Serves as a template for building subgraphs with Chainstack. It includes all necessary dependencies pre-installed and provides essential files to interact with GraphQL APIs.
 
+You can follow along the comprehensive article guide [HERE](https://github.com/CoderOfPHCity/Chainstack-Subgraph/blob/master/Article.md)
+
 ## Dependencies
 The following dependencies are included:
 
